@@ -18,6 +18,10 @@ if (number == 57)
 break;
 }
 
-putchar(',');
+putchar (',');
 putchar (' ');
+}
+
+return (0);
+
 }
