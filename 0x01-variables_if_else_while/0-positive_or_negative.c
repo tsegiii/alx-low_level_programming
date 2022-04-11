@@ -9,6 +9,7 @@
  * Return: Always 0.
  */
 int main(void)
+
 {
 int n;
 
@@ -24,4 +25,5 @@ else
 printf("%d is zero\n", n);
 
 return (0);
+
 }
